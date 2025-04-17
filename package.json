@@ -1,0 +1,16 @@
+{
+  "name": "techietube",
+  "version": "1.0.0",
+  "description": "Techietube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Tech",
+    "geeks",
+    "techsavvy"
+  ],
+  "author": "Manjunath Shendge",
+  "license": "ISC"
+}
